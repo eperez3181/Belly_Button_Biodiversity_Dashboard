@@ -1,4 +1,4 @@
-# Plot.ly-challenge: Belly Button Biodiversity
+# Belly Button Biodiversity Dashboard
 
 
 ##### Created by: Estela Perez
