@@ -8,7 +8,7 @@
 
 ## Background
 
-The purpose of this assignment was to build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+Built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 The interactive dashboard can be viewed on my [Belly Button Biodiversity Link](https://eperez3181.github.io/Belly_Button_Biodiversity_Dashboard/)
